@@ -17,7 +17,7 @@ app:
     sshTargetPort: 3456
     sshNodePort: 30456
   ingress:
-    host: nesthelm.davidsegurarodriguez.com
+    host: api.vuelaguadalinfogarrucha.es
     port: 80
 
 frontend:
@@ -38,7 +38,7 @@ frontend:
     sshTargetPort: 3457
     sshNodePort: 30457
   ingress:
-    host: nexthelm.davidsegurarodriguez.com
+    host: vuelaguadalinfogarrucha.es
     port: 3000
 
 postgres:
