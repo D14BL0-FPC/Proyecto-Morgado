@@ -18,7 +18,7 @@ app:
     sshNodePort: 30456
   ingress:
     host: nesthelm.davidsegurarodriguez.com
-    port: 3001
+    port: 80
 
 frontend:
   name: webnext
