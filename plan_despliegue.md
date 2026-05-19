@@ -44,17 +44,17 @@ El proyecto utiliza una estructura de imágenes heredada muy interesante y jerá
 
 ```mermaid
 graph TD
-    Ubuntu[ubuntu:latest] -->|1. Dockerfile base: ubbase| Base[d14bl0fpc/ubbase: Agrega SSH, nano, git, wget, sudo]
-    Base -->|2. Dockerfile seguridad: seguridad| Security[d14bl0fpc/ubseguridad: Prepara directivas de usuario y scripts]
-    Security -->|3. Dockerfile sweb: nginxbase| Nginx[d14bl0fpc/nginx: Instala y expone Nginx en Puerto 80]
+    Ubuntu[ubuntu:latest] -->|1. Dockerfile base: ubbase| Base[franm88/ubbase: Agrega SSH, nano, git, wget, sudo]
+    Base -->|2. Dockerfile seguridad: seguridad| Security[franm88/ubseguridad: Prepara directivas de usuario y scripts]
+    Security -->|3. Dockerfile sweb: nginxbase| Nginx[franm88/nginx: Instala y expone Nginx en Puerto 80]
     
-    Nginx -->|4. Dockerfile nodejsnest: node| NestBase[d14bl0fpc/nestjs: Instala Node.js 20, copia backend ppokenest]
-    NestBase -->|5. Dockerfile pokeapinest: pokeapinest| NestApp[d14bl0fpc/pokeapinest: Expone e inicia el backend NestJS]
+    Nginx -->|4. Dockerfile nodejsnest: node| NestBase[franm88/nestjs: Instala Node.js 20, copia backend ppokenest]
+    NestBase -->|5. Dockerfile pokeapinest: pokeapinest| NestApp[franm88/pokeapinest: Expone e inicia el backend NestJS]
     
-    Nginx -->|4. Dockerfile nodejsnext: nodenext| NextBase[d14bl0fpc/nexjs: Instala Node.js 20, copia frontend ppokenext]
-    NextBase -->|5. Dockerfile nextpoke: pokenext| NextApp[d14bl0fpc/nextpoke: Expone e inicia el frontend Next.js]
+    Nginx -->|4. Dockerfile nodejsnext: nodenext| NextBase[franm88/nexjs: Instala Node.js 20, copia frontend ppokenext]
+    NextBase -->|5. Dockerfile nextpoke: pokenext| NextApp[franm88/nextpoke: Expone e inicia el frontend Next.js]
     
-    Security -->|3. Dockerfile postgres: postgres| PostgresApp[d14bl0fpc/postgres: Instala PostgreSQL y prepara directorios de persistencia]
+    Security -->|3. Dockerfile postgres: postgres| PostgresApp[franm88/postgres: Instala PostgreSQL y prepara directorios de persistencia]
 ```
 
 - **Aislamiento y jerarquía:** Cada capa de infraestructura (SSH/Herramientas de red -> Configuración de usuarios -> Servidor Web -> Entorno Node.js -> Aplicación final) se empaqueta en una imagen reutilizable.

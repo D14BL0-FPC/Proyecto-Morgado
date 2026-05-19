@@ -1,4 +1,4 @@
-FROM d14bl0fpc/nginx
+FROM franm88/nginx
 
 RUN apt update && apt install -yq --no-install-recommends \
     curl \

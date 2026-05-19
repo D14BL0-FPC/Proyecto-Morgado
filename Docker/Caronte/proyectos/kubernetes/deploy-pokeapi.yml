@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: webnest
-        image: d14bl0fpc/pokeapinest
+        image: franm88/pokeapinest
         ports:
         - containerPort: 3001
         - containerPort: 22452

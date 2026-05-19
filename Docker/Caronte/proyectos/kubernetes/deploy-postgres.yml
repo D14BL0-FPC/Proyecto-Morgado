@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: postgres
-        image: d14bl0fpc/postgres
+        image: franm88/postgres
         ports:
         - containerPort: 5432
         env:

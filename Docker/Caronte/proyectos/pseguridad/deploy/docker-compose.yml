@@ -6,6 +6,7 @@ services:
     container_name: ctfranseguridad
     env_file:
       - ./.env
-    image: d14bl0fpc/ubseguridad
+    image: franm88/ubseguridad
     volumes:
       - ./logs:/root/logs
+

@@ -4,10 +4,11 @@ services:
       context: /home/fran/devops/Docker/Caronte
       dockerfile: ./dockerfiles/pokeapinest/pokeapinest
     container_name: ctfrannestpokeapi
-    image: d14bl0fpc/pokeapinest
+    image: franm88/pokeapinest
     ports:
       - 3010:3001
     env_file:
       - ./.env
     volumes:
       - ./logs:/root/logs
+

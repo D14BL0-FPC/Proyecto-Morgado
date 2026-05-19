@@ -6,6 +6,7 @@ services:
     container_name: ctfrannginx
     env_file:
       - ./.env
-    image: d14bl0fpc/nginx
+    image: franm88/nginx
     volumes:
       - ./logs:/root/logs
+

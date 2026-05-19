@@ -1,4 +1,4 @@
-FROM d14bl0fpc/ubseguridad
+FROM franm88/ubseguridad
 
 USER root
 

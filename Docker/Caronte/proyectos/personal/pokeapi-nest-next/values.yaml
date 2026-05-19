@@ -1,7 +1,7 @@
 app:
   name: webnest
   image:
-    repository: d14bl0fpc/pokeapinest
+    repository: franm88/pokeapinest
     tag: latest
     pullPolicy: Always
   # containerPort: 3001   
@@ -23,7 +23,7 @@ app:
 frontend:
   name: webnext
   image:
-    repository: d14bl0fpc/nextpoke
+    repository: franm88/nextpoke
     tag: latest
     pullPolicy: Always
   container:
@@ -44,7 +44,7 @@ frontend:
 postgres:
   name: postgres
   image:
-    repository: d14bl0fpc/postgres
+    repository: franm88/postgres
     tag: "latest"
     pullPolicy: Always
   service:

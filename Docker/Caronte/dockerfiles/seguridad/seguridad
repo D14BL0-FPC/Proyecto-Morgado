@@ -1,4 +1,4 @@
-FROM d14bl0fpc/ubbase
+FROM franm88/ubbase
 
 
 RUN mkdir -p /root/admin/ubseguridad

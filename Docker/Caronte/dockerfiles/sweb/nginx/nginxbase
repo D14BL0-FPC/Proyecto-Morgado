@@ -1,4 +1,4 @@
-FROM d14bl0fpc/ubseguridad
+FROM franm88/ubseguridad
 
 RUN apt update && apt install -yq --no-install-recommends \
     nginx
@@ -17,3 +17,4 @@ WORKDIR /root/admin/sweb/nginx
 EXPOSE 80
 
 ENTRYPOINT ["./admin/start.sh"]
+

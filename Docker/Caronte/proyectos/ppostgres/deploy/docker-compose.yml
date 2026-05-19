@@ -8,7 +8,7 @@ services:
       - "5432:5432"
     env_file:
       - ./.env
-    image: d14bl0fpc/postgres
+    image: franm88/postgres
     volumes:
       - ./logs:/root/logs
     networks:
@@ -21,3 +21,4 @@ networks:
       driver: default
       config:
         - subnet: 172.130.17.0/24
+
