@@ -1,0 +1,13 @@
+services:
+  web:
+    build:
+      context: /home/fran/devops/Docker/Caronte
+      dockerfile: ./dockerfiles/nextpoke/pokenext
+    container_name: ctfrannextpoke
+    image: d14bl0fpc/nextpoke
+    ports:
+      - 3010:3000
+    env_file:
+      - ./.env
+    volumes:
+      - ./logs:/root/logs

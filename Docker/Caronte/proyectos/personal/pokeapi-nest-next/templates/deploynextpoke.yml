@@ -1,0 +1,29 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ .Values.frontend.container.name }}-deployment
+  namespace: {{ .Release.Namespace }}
+  labels:
+    app: {{ .Values.frontend.container.name }}
+    app.kubernetes.io/instance: {{ .Release.Name }}
+spec:
+  replicas: {{ .Values.frontend.container.replicas }}
+  selector:
+    matchLabels:
+      app: {{ .Values.frontend.container.name }}
+  template:
+    metadata:
+      labels:
+        app: {{ .Values.frontend.container.name }}
+        app.kubernetes.io/instance: {{ .Release.Name }}
+    spec:
+      containers:
+      - name: {{ .Values.frontend.container.name }}
+        image: "{{ .Values.frontend.image.repository }}:{{ .Values.frontend.image.tag }}"
+        imagePullPolicy: {{ .Values.frontend.image.pullPolicy }}
+        ports:
+        - containerPort: {{ .Values.frontend.container.port }}
+        - containerPort: {{ .Values.frontend.service.sshPort }}
+        env:
+        - name: NEXT_PUBLIC_API_URL
+          value: "http://{{ .Values.app.container.name }}-service:{{ .Values.app.service.port }}"

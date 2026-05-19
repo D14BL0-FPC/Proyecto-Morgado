@@ -1,0 +1,11 @@
+services:
+  web:
+    build:
+      context: /home/fran/devops/Docker/Caronte
+      dockerfile: ./dockerfiles/sweb/nginx/nginxbase
+    container_name: ctfrannginx
+    env_file:
+      - ./.env
+    image: d14bl0fpc/nginx
+    volumes:
+      - ./logs:/root/logs

@@ -1,0 +1,4 @@
+{{/*
+  Namespace is created by --create-namespace flag in helm upgrade/install.
+  This template is kept empty intentionally to avoid conflicts.
+*/}}

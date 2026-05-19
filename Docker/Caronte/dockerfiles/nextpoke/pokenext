@@ -1,0 +1,8 @@
+FROM d14bl0fpc/nexjs
+
+RUN mkdir -p /root/admin/nextpoke
+WORKDIR /root/admin/nextpoke
+COPY ./dockerfiles/nextpoke/admin/start.sh .
+RUN chmod +x ./start.sh
+
+ENTRYPOINT ["./start.sh"]

@@ -1,0 +1,1192 @@
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:56999      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:37813      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess
+udp   UNCONN 0      0         127.0.0.11:36442      0.0.0.0:*          
+tcp   LISTEN 0      4096      127.0.0.11:44059      0.0.0.0:*          
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:36442      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:44059      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:36442      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:44059      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:36442      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:44059      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:36442      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:44059      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:36442      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:44059      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:36442      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:44059      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:36442      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:44059      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:36442      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:44059      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:36442      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:44059      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:36442      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:44059      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:36442      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:44059      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:36442      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:44059      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:36442      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:44059      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:36442      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:44059      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:36442      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:44059      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess
+udp   UNCONN 0      0         127.0.0.11:41945      0.0.0.0:*          
+tcp   LISTEN 0      4096      127.0.0.11:40509      0.0.0.0:*          
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:41945      0.0.0.0:*                                
+tcp   LISTEN 0      4096      127.0.0.11:40509      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:41945      0.0.0.0:*                                
+tcp   LISTEN 0      4096      127.0.0.11:40509      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:41945      0.0.0.0:*                                
+tcp   LISTEN 0      4096      127.0.0.11:40509      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:41945      0.0.0.0:*                                
+tcp   LISTEN 0      4096      127.0.0.11:40509      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:41945      0.0.0.0:*                                
+tcp   LISTEN 0      4096      127.0.0.11:40509      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:41945      0.0.0.0:*                                
+tcp   LISTEN 0      4096      127.0.0.11:40509      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:41945      0.0.0.0:*                                
+tcp   LISTEN 0      4096      127.0.0.11:40509      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:41945      0.0.0.0:*                                
+tcp   LISTEN 0      4096      127.0.0.11:40509      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:41945      0.0.0.0:*                                
+tcp   LISTEN 0      4096      127.0.0.11:40509      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:41945      0.0.0.0:*                                
+tcp   LISTEN 0      4096      127.0.0.11:40509      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess
+udp   UNCONN 0      0         127.0.0.11:39252      0.0.0.0:*          
+tcp   LISTEN 0      4096      127.0.0.11:34793      0.0.0.0:*          
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:39252      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:34793      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:39252      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:34793      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:39252      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:34793      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:39252      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:34793      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:39252      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:34793      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:39252      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:34793      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:39252      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:34793      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:39252      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:34793      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:39252      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:34793      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:39252      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:34793      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:39252      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:34793      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess
+udp   UNCONN 0      0         127.0.0.11:43250      0.0.0.0:*          
+tcp   LISTEN 0      4096      127.0.0.11:45883      0.0.0.0:*          
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:43250      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:45883      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:43250      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:45883      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===
+=== PORT AUDITORIO ===
+Container: ctfranseguridad
+
+--- Listening TCP/UDP ports ---
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                      
+udp   UNCONN 0      0         127.0.0.11:43250      0.0.0.0:*                                
+tcp   LISTEN 0      128          0.0.0.0:45678      0.0.0.0:*    users:(("sshd",pid=29,fd=3))
+tcp   LISTEN 0      4096      127.0.0.11:45883      0.0.0.0:*                                
+tcp   LISTEN 0      128             [::]:45678         [::]:*    users:(("sshd",pid=29,fd=4))
+
+--- Exposed enviroment ports ---
+PORT_WEB=8099
+PORT_SSH=45678
+
+=== END AUDITORIa ===

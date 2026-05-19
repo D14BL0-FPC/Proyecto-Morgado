@@ -1,0 +1,23 @@
+services:
+  web:
+    build:
+      context: /home/fran/devops/Docker/Caronte
+      dockerfile: ./dockerfiles/postgres/postgres
+    container_name: ctfranpostgres
+    ports:
+      - "5432:5432"
+    env_file:
+      - ./.env
+    image: d14bl0fpc/postgres
+    volumes:
+      - ./logs:/root/logs
+    networks:
+      netpostgres:
+        ipv4_address: 172.130.17.4
+networks:
+  netpostgres:
+    driver: bridge
+    ipam:
+      driver: default
+      config:
+        - subnet: 172.130.17.0/24

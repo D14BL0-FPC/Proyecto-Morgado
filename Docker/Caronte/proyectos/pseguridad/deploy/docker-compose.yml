@@ -1,0 +1,11 @@
+services:
+  web:
+    build:
+      context: /home/fran/devops/Docker/Caronte
+      dockerfile: ./dockerfiles/seguridad/seguridad
+    container_name: ctfranseguridad
+    env_file:
+      - ./.env
+    image: d14bl0fpc/ubseguridad
+    volumes:
+      - ./logs:/root/logs

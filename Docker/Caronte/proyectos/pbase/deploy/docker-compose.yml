@@ -1,0 +1,23 @@
+services:
+  web:
+    build:
+      context: /home/fran/devops/Docker/Caronte
+      dockerfile: ./dockerfiles/base/ubbase
+    container_name: ctfranbase
+    ports:
+      - "2456:22"
+    env_file:
+      - ./.env
+    image: d14bl0fpc/ubbase
+    volumes:
+      - ./logs:/root/logs
+    networks:
+      netnode:
+        ipv4_address: 172.130.13.4
+networks:
+  netnode:
+    driver: bridge
+    ipam:
+      driver: default
+      config:
+        - subnet: 172.130.13.0/24

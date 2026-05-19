@@ -1,0 +1,13 @@
+services:
+  web:
+    build:
+      context: /home/fran/devops/Docker/Caronte
+      dockerfile: ./dockerfiles/nodejsnext/nodenext
+    container_name: ctfrannext
+    ports:
+      - "3001:3000"
+    env_file:
+      - ./.env
+    image: d14bl0fpc/nexjs
+    volumes:
+      - ./logs:/root/logs

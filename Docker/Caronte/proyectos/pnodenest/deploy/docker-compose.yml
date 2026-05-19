@@ -1,0 +1,13 @@
+services:
+  web:
+    build:
+      context: /home/fran/devops/Docker/Caronte
+      dockerfile: ./dockerfiles/nodejsnest/node
+    container_name: ctfrannest
+    ports:
+      - "3000:80"
+    env_file:
+      - ./.env
+    image: d14bl0fpc/nestjs
+    volumes:
+      - ./logs:/root/logs

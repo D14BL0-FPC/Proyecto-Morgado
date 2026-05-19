@@ -1,0 +1,49 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ .Values.app.container.name }}-deployment
+  namespace: {{ .Release.Namespace }}
+  labels:
+    app: {{ .Values.app.container.name }}
+    app.kubernetes.io/instance: {{ .Release.Name }}
+spec:
+  replicas: {{ .Values.app.container.replicas }}
+  selector:
+    matchLabels:
+      app: {{ .Values.app.container.name }}
+  template:
+    metadata:
+      labels:
+        app: {{ .Values.app.container.name }}
+        app.kubernetes.io/instance: {{ .Release.Name }}
+    spec:
+      containers:
+      - name: {{ .Values.app.container.name }}
+        image: "{{ .Values.app.image.repository }}:{{ .Values.app.image.tag }}"
+        imagePullPolicy: {{ .Values.app.image.pullPolicy }}
+        ports:
+        - containerPort: {{ .Values.app.container.port }}
+        - containerPort: {{ .Values.app.service.sshPort }}
+        env:
+        - name: POSTGRES_HOST
+          valueFrom:
+            configMapKeyRef:
+              name: {{ .Values.postgres.name }}-configmap
+              key: POSTGRES_HOST
+        - name: POSTGRES_PORT
+          valueFrom:
+            configMapKeyRef:
+              name: {{ .Values.postgres.name }}-configmap
+              key: POSTGRES_PORT
+        - name: POSTGRES_DB
+          valueFrom:
+            configMapKeyRef:
+              name: {{ .Values.postgres.name }}-configmap
+              key: POSTGRES_DB
+        - name: POSTGRES_USER
+          value: {{ .Values.postgres.auth.username }}
+        - name: POSTGRES_PASSWORD
+          valueFrom:
+            secretKeyRef:
+              name: {{ .Values.app.container.name }}-postgres-secret
+              key: POSTGRES_PASSWORD

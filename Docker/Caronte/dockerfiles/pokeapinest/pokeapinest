@@ -1,0 +1,8 @@
+FROM d14bl0fpc/nestjs
+
+RUN mkdir -p /root/admin/pokeapinest
+WORKDIR /root/admin/pokeapinest
+COPY ./dockerfiles/pokeapinest/admin/start.sh .
+RUN chmod +x ./start.sh
+
+ENTRYPOINT ["./start.sh"]
