@@ -13,7 +13,7 @@ RUN apt update && apt install -yq --no-install-recommends \
 #fijamos en el contenedor el directorio raiz
 WORKDIR /root/admin/base
 #contexto (el punto)
-RUN mkdir /var/run/sshd
+RUN mkdir -p /var/run/sshd
 EXPOSE 22
 COPY ./dockerfiles/base/admin/ .
 COPY ./common/id_rsa.pub ./common/id_rsa.pub
